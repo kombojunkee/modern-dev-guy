@@ -1,0 +1,13 @@
+v3.1.0
+- update packages in package.json file
+- replace bootstrap.scss file
+- removed `marked` package
+- added `react-markdown` package
+
+v3.0.0
+- update pkg.json file
+- replace "@tabler/icons" with "@tabler/icons-react"
+- update next/link tag
+- update search.js file
+- remove layout attribute from next/image
+- remove husky dependency
