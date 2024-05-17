@@ -4,6 +4,9 @@ const nextConfig = {
     locales: ["en"],
     defaultLocale: "en",
   },
-};
+  experimental: {
+    taint: true,
+  },
+}
 
-module.exports = nextConfig;
+module.exports = nextConfig
